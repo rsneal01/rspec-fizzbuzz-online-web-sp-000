@@ -7,4 +7,8 @@ def fizzbuzz(number)
   
   end
   
+elsif number % 5
+  "Buzz"
+end
+  
 end

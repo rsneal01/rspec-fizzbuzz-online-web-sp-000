@@ -4,7 +4,11 @@
 def fizzbuzz(number)
   if number % 3 
     "Fizz"
-  elsif number % 5
+  end
+end
+
+def fizzbuzz(number)
+  if number % 5
     "Buzz"
   end
 
